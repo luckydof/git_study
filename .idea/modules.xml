@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../gitSpace/Wav2Lip-GFPGAN-main/.idea/Wav2Lip-GFPGAN-main.iml" filepath="$PROJECT_DIR$/../../gitSpace/Wav2Lip-GFPGAN-main/.idea/Wav2Lip-GFPGAN-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gitSpace/Wav2Lip-master/.idea/Wav2Lip-master.iml" filepath="$PROJECT_DIR$/../../gitSpace/Wav2Lip-master/.idea/Wav2Lip-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gitSpace/facefusion-master/.idea/facefusion-master.iml" filepath="$PROJECT_DIR$/../../gitSpace/facefusion-master/.idea/facefusion-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jiaoyan.iml" filepath="$PROJECT_DIR$/.idea/jiaoyan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liucheng_zhushou/.idea/liucheng_zhushou.iml" filepath="$PROJECT_DIR$/../liucheng_zhushou/.idea/liucheng_zhushou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../d_human/video-retalking-main/.idea/video-retalking-main.iml" filepath="$PROJECT_DIR$/../d_human/video-retalking-main/.idea/video-retalking-main.iml" />
+    </modules>
+  </component>
+</project>
